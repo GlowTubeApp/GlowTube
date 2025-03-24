@@ -1,6 +1,8 @@
 # GlowTube
 
 GlowTube is a modified version of *NewPipe*, designed to provide a better user experience.
+This is an open-source project.  
+Before building, please extract res.zip.
 
 ## Features:
 - Ad-free experience  
